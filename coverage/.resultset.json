@@ -23,9 +23,20 @@
         null
       ],
       "/Users/san-di/makersAcademy/bookmark_manager/spec/features/bookmarks_spec.rb": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/san-di/makersAcademy/bookmark_manager/spec/features/creating_bookmarks_spec.rb": [
         1,
         1,
         1,
+        1,
+        1,
+        null,
         1,
         null,
         null
@@ -37,8 +48,28 @@
         1,
         null,
         null
+      ],
+      "/Users/san-di/makersAcademy/bookmark_manager/spec/features/veiwing_bookmarks_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null
       ]
     },
-    "timestamp": 1540454010
+    "timestamp": 1540462703
   }
 }

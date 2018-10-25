@@ -1,4 +1,4 @@
-require 'link'
+require 'bookmark'
 
 describe Bookmark do
   describe '#self.all' do
