@@ -10,6 +10,16 @@
         1,
         null,
         null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
         null
       ],
       "/Users/san-di/makersAcademy/bookmark_manager/spec/features/bookmarks_spec.rb": [
@@ -29,6 +39,6 @@
         null
       ]
     },
-    "timestamp": 1540303452
+    "timestamp": 1540454010
   }
 }
